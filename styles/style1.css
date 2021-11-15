@@ -1,0 +1,257 @@
+html {
+    font-size : 20px
+}
+header{
+    position:absolute
+}
+.titleLogo{
+    border : 3px solid rgb(51, 255, 0);
+    width: 270px;
+    height: 230px;
+    text-align: center;
+    content img{vertical-align: middle;}
+}
+
+.advertising1{
+    border : 3px solid black;
+    width: 1320px;
+    height : 150px;
+    position: absolute;
+    top : 10px;
+    left : 300px;
+}
+
+
+.searchthings {
+    font-size : 20px;
+    width : 210px;
+    border : 3px solid black;    
+    position : absolute;
+    top :260px;
+    
+}
+
+.searchgo {
+    font-size: 20px;
+    position: absolute;
+    top : 260px;
+    left : 227px;
+    border : 3px solid black;
+}
+
+.brandnamelist {
+    font-size: 20px;
+    width: 260px;
+    height : 500px;
+    background-color: #FF9500;
+    border: 3px solid black;
+    text-align:center;
+    vertical-align: middle;
+    position : absolute;
+    top : 301px;
+    }
+
+.brandnamelist1 {
+    width: 249px;
+    height : 50px;
+    background-color: #FF0000;
+    border: 3px solid black;
+    text-align:left;
+    vertical-align: middle;
+    position : absolute;
+    top : 50px;
+    }
+    
+.brandnamelist2 {
+    width: 249px;
+    height : 50px;
+    background-color: #00ffff;
+    border: 3px solid black;
+    text-align:left;
+    vertical-align: middle;
+    position : absolute;
+    top : 102px;
+    }
+
+.brandnamelist3 {
+    width: 249px;
+    height : 50px;
+    background-color: #000fff;
+    border: 3px solid black;
+    text-align:left;
+    vertical-align: middle;
+    position : absolute;
+    top : 154px;
+    }
+
+.brandnamelist4 {
+    width: 249px;
+    height : 50px;
+    background-color: #c000cc;
+    border: 3px solid black;
+    text-align:left;
+    vertical-align: middle;
+    position : absolute;
+    top : 206px;
+    }
+
+.brandnamelist5 {
+    width: 249px;
+    height : 50px;
+    background-color: #0051ff;
+    border: 3px solid black;
+    text-align:left;
+    vertical-align: middle;
+    position : absolute;
+    top : 258px;
+    }
+
+.brandnamelist6 {
+    width: 249px;
+    height : 50px;
+    background-color: #00ff15;
+    border: 3px solid black;
+    text-align:left;
+    vertical-align: middle;
+    position : absolute;
+    top : 310px;
+    }
+
+.brandnamelist7 {
+    width: 249px;
+    height : 50px;
+    background-color: #f5dc00;
+    border: 3px solid black;
+    text-align:left;
+    vertical-align: middle;
+    position : absolute;
+    top : 362px;
+    }
+
+.brandnamelist8 {
+    width: 249px;
+    height : 50px;
+    background-color: #0051ff;
+    border: 3px solid black;
+    text-align:left;
+    vertical-align: middle;
+    position : absolute;
+    top : 414px;
+    }
+
+.brandnamelist9 {
+    width: 249px;
+    height : 50px;
+    background-color: #ff0000;
+    border: 3px solid black;
+    text-align:left;
+    vertical-align: middle;
+    position : absolute;
+    top : 466px;
+    }
+
+.homepagelink {
+    width: 50px;
+    height : 181px;
+    position:absolute;
+    top : 301px;
+    left : 190px;
+    
+}
+
+.colorcontents1 {
+    border : 3px solid black;
+    width: 1320px;
+    height : 100px;
+    position: absolute;
+    top : 301px;
+    left : 300px;
+}
+.colorcontents2 {
+    border : 3px solid black;
+    width: 1320px;
+    height : 100px;
+    position: absolute;
+    top : 404px;
+    left : 300px;
+}
+.colorcontents3 {
+    border : 3px solid black;
+    width: 1320px;
+    height : 100px;
+    position: absolute;
+    top : 507px;
+    left : 300px;
+}
+.colorcontents4 {
+    border : 3px solid black;
+    width: 1320px;
+    height : 100px;
+    position: absolute;
+    top : 610px;
+    left : 300px;
+}
+.colorcontents5 {
+    border : 3px solid black;
+    width: 1320px;
+    height : 100px;
+    position: absolute;
+    top : 713px;
+    left : 300px;
+}
+.colorcontents6 {
+    border : 3px solid black;
+    width: 1320px;
+    height : 100px;
+    position: absolute;
+    top : 816px;
+    left : 300px;
+}
+.RGBPanel {
+    position: absolute;
+    top : 301px;
+    left : 1625px;
+    border : 3px solid red;
+    width: 290px;
+    height: 290px;
+
+
+}
+
+.howmuchtoday {
+    position: absolute;
+    top : 830px;
+
+}
+
+.brandnameaftersearching{
+    font-size:  80px;
+    position: absolute;
+    top : 190px;
+    left : 300px;
+    width: 700px;
+    border : 3px solid red
+}
+
+.recommendcolor{
+    position: absolute;
+    top : 243px;
+    left : 1470px;
+    border: 3px solid black;
+    width: 150px;
+    font-size: 15px;
+    text-align: center;
+}
+
+
+.RankingColorfromothers{
+    position: absolute;
+    top : 273px;
+    left : 1470px;
+    border: 3px solid black;
+    width: 150px;
+    font-size: 15px;
+    text-align: center;
+
+
+}
